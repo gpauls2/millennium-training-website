@@ -111,3 +111,52 @@ The website connects students with the Moodle learning environment used for cour
 📸 Additional Screenshots
 
 Additional project screenshots are available in the [`screenshots`](screenshots/) directory, documenting more sections of the website and student experience.
+
+---
+
+🔄 Student Journey & System Workflow
+
+The website was designed to support students from initial program discovery through enrollment, orientation, and access to their online coursework.
+
+```text
+Prospective Student
+        │
+        ▼
+Millennium Training Website
+        │
+        ▼
+Explore Training Programs
+        │
+        ▼
+Admissions & Enrollment
+        │
+        ▼
+Student Account / Login
+        │
+        ▼
+Student Orientation
+        │
+        ▼
+Student Portal
+        │
+        ▼
+MoodleCloud LMS
+        │
+        ▼
+Online Coursework & Training
+
+```
+
+How the System Works
+
+1. Program Discovery — Prospective students explore available training programs and course information through the WordPress website.
+
+2. Admissions & Enrollment — Students access admissions information and online forms to begin the enrollment process.
+
+3. Student Access — Registered students use the website's authentication system to access protected student resources.
+
+4. Orientation — Students complete the required orientation process before progressing to their learning resources.
+
+5. Student Portal — The protected portal centralizes student resources, forms, support information, and access to learning systems.
+
+6. MoodleCloud — Students transition from the WordPress environment to MoodleCloud for online coursework and training.
