@@ -76,4 +76,4 @@ Screenshots documenting the website version developed during the project will be
 
 The homepage introduces Millennium Training's programs and provides students with clear pathways to explore courses, admissions, student services, and learning resources.
 
-![Millennium Training Homepage](screenshots/home.png)
+![Millennium Training Homepage](screenshots/Home.png)
