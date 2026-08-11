@@ -74,6 +74,40 @@ Screenshots documenting the website version developed during the project will be
 
 🏠 Homepage
 
-The homepage introduces Millennium Training's programs and provides students with clear pathways to explore courses, admissions, student services, and learning resources.
+The homepage was designed to provide prospective and current students with clear access to training programs, admissions information, student services, and learning resources.
 
 ![Millennium Training Homepage](screenshots/Home.png)
+
+🎓 Programs & Courses
+
+Program pages provide students with information about available training pathways, course requirements, and educational opportunities.
+
+![Millennium Training Programs](screenshots/Program.png)
+
+![Millennium Training Program Details](screenshots/Program1.png)
+
+📝 Admissions
+
+The admissions experience guides prospective students through enrollment information, requirements, and the next steps for joining Millennium Training.
+
+![Millennium Training Admissions](screenshots/Admission.png)
+
+![Millennium Training Admissions Information](screenshots/Admission1.png)
+
+🔐 Student Login
+
+A dedicated login experience provides students with secure access to protected student resources and services.
+
+![Millennium Training Student Login](screenshots/Login.png)
+
+📚 Moodle LMS
+
+The website connects students with the Moodle learning environment used for course delivery and training resources.
+
+![Millennium Training Moodle LMS](screenshots/Moodle.png)
+
+---
+
+📸 Additional Screenshots
+
+Additional project screenshots are available in the [`screenshots`](screenshots/) directory, documenting more sections of the website and student experience.
