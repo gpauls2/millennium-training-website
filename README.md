@@ -72,4 +72,8 @@ Built and optimized website sections using Elementor to provide a consistent exp
 
 Screenshots documenting the website version developed during the project will be added here.
 
-<!-- Screenshots will be added after creating the screenshots directory -->
+🏠 Homepage
+
+The homepage introduces Millennium Training's programs and provides students with clear pathways to explore courses, admissions, student services, and learning resources.
+
+![Millennium Training Homepage](screenshots/home.png)
